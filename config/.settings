@@ -1,0 +1,18 @@
+{
+    "projectName": "My Trailhead 01",
+    "username": "rapola.mohan@cunning-goat-490226.com",
+    "id": "e956c040-beee-11e7-8c1a-59091f9a5650",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cunning-goat-490226-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\user\\Desktop\\Projects\\MyDev",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
